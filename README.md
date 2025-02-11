@@ -81,7 +81,7 @@ $ docker-compose up -d --build
 apt install nginx -y
 vim /etc/nginx/sites-enabled/website
 vim docker-compose.yml
-add hostname: test.fei.works
+add hostname: demo.b10732018.works
 service nginx restart
 ```
 
